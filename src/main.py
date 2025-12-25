@@ -1,3 +1,5 @@
+# The-Evolution-of-Todo> python src/main.py
+
 """Main entry point for Todo CLI Application.
 
 Spec Reference: FR-011, FR-012
